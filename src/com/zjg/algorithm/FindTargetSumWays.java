@@ -1,4 +1,4 @@
-package com.zjg;
+package com.zjg.algorithm;
 
 import java.util.Arrays;
 

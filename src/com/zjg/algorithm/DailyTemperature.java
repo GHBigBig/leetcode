@@ -1,8 +1,6 @@
-package com.zjg;
+package com.zjg.algorithm;
 
-import java.io.DataInputStream;
 import java.util.Arrays;
-import java.util.Hashtable;
 import java.util.LinkedList;
 import java.util.Stack;
 
